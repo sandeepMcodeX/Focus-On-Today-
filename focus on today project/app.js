@@ -1,2 +1,2 @@
 const box = document.queryselector('card');
-const hello = 
+const hello = document.querySelector 
