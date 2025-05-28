@@ -4,3 +4,5 @@ const button= document.querySelector('mybutton')
 
 button.addEventListeners('click',()=>{
 })
+button.addEventListeners('click'()=>{
+})
